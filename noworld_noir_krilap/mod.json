@@ -1,0 +1,36 @@
+{
+ "ModDefinition": {
+  "name": "NoWorld NoiR - Krilalaris (Pajamas)",
+  "description": "NoiR from the unit group NoWorld is now in 100% Orange Juice! This replaces Krilalaris (Pajamas) with NoiR (and Haizumi the teddy bear, tissue box, and manager)!",
+  "author": "Shrike [ShrikeGames.com]",
+  "system_version": 2,
+  "changelog": "Initial release.",
+  "contest": false,
+  "color": "#000000"
+ },
+ "ModReplacements": {
+  "textures": [
+   "units/krilap_00",
+   "units/krilap_01",
+   "units/krilap_02",
+   "units/krilap_03",
+   "units/krilap_04",
+   "units/krilap_05",
+   "units/krilap_06",
+   "units/krilap_07",
+   "units/krilap_08",
+   "cards/krilap",
+   "hairs/krilap_b00",
+   "hairs/krilap_h00",
+   "hairs/krilap_m00",
+   "hairs/krilap_s00"
+  ],
+  "music": [],
+  "voices": {
+   "character": [],
+   "system": []
+  },
+  "hair_color": [],
+  "sound_effects": []
+ }
+}
